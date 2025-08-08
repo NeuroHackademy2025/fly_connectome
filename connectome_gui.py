@@ -250,6 +250,11 @@ def create_infomap_gui(csv_file, top_n_modules=100, default_output_dir="gui_outp
                     print()
                     print(f"📂 All results saved to: {outdir}")
                     print(f"📋 Generated files: {', '.join(results['infomap_result']['output_files'])}")
+                    print()
+                    print("💡 Next steps:")
+                    print("   • Use module_parser.parse_infomap_modules() to analyze results")  
+                    print("   • Use module_visualizer functions for 3D visualization")
+                    print("   • Use persistence_analysis.create_tda_gui() for topological analysis")
             else:
                 with output:
                     print(f"❌ Infomap analysis failed!")
