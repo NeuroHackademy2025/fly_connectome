@@ -9,7 +9,7 @@
 
 Citation:
 1. Dorkenwald, S., Matsliah, A., Sterling, A.R. et al. Neuronal wiring diagram of an adult brain. Nature 634, 124–138 (2024). https://doi.org/10.1038/s41586-024-07558-y
-2. M. Rosvall, & C.T. Bergstrom, Maps of random walks on complex networks reveal community structure, Proc. Natl. Acad. Sci. U.S.A. 105 (4) 1118-1123, https://doi.org/10.1073/pnas.0706851105 (2008).
+2. M. Rosvall, & C.T. Bergstrom, Maps of random walks on complex networks reveal community structure, Proc. Natl. Acad. Sci. U.S.A. 105 (4) 1118-1123, (2008). https://doi.org/10.1073/pnas.0706851105.
 
 
 
